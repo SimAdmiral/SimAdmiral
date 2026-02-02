@@ -5,7 +5,7 @@
 </a>
 
 <br/>
----
+
 <!--
 ### 👨‍💻 InfoSec Enthusiast | 🔐 CTF Player | 🧩 Full Stack Developer
 
@@ -23,7 +23,7 @@ I bridge the gap between building software and breaking it. I practice secure co
 
 <br/>
 
-
+---
 
 ### The Arsenal & Tech Stack
 
