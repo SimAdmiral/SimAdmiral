@@ -23,7 +23,7 @@ I bridge the gap between building software and breaking it. I practice secure co
 
 <br/>
 
----
+
 
 ### The Arsenal & Tech Stack
 
@@ -54,7 +54,7 @@ I bridge the gap between building software and breaking it. I practice secure co
   <img src="https://img.shields.io/badge/Nmap-005F9E?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
----
+
 
 ### Hacking
 
@@ -70,7 +70,6 @@ I bridge the gap between building software and breaking it. I practice secure co
 
 </div>
 
----
 
 ### Coding
 
